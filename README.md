@@ -19,12 +19,12 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/willian-moreira-7a29a528b/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/willian-moreira-7a29a528b/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:willianmoreira0510@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-willianmoreira0510%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <br><br>
@@ -245,7 +245,7 @@ Development of institutional solutions and collaborative software projects using
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=willian-hm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=willian-hm&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willian-hm&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -311,18 +311,6 @@ Development of institutional solutions and collaborative software projects using
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=willian-hm&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/willian-hm/willian-hm/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> **Note:** To make the snake animation work, you'll need to configure a GitHub Action in your profile repository (`willian-hm/willian-hm`).
 
 ---
 
